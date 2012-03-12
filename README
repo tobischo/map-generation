@@ -1,0 +1,8 @@
+Author: Tobias Schoknecht
+Mail: tobias.schoknecht@gmail.com
+
+This is a Ruby script to generate a colored 2d map using perlin-noise.
+The algorithm was taken from http://devmag.org.za/2009/04/25/perlin-noise/ and ported to ruby.
+In order to generate the image RMagick is used.
+
+Note that Ruby1.9 or higher is required for execution as well as RMagick2.
